@@ -1,3 +1,7 @@
 export default function Page() {
-  return <div>welcome to next app</div>;
+  return (
+    <div>
+      <h1>welcome to next app</h1>
+    </div>
+  );
 }
